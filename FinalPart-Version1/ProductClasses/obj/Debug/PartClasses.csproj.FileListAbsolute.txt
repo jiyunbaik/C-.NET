@@ -1,0 +1,22 @@
+D:/Humber/Framework Programming CPAN 2016/2020/Final Test/FinalExam-AddUpdateProduct/ProductClasses/bin/Debug/ProductClasses.dll
+D:/Humber/Framework Programming CPAN 2016/2020/Final Test/FinalExam-AddUpdateProduct/ProductClasses/bin/Debug/ProductClasses.pdb
+D:/Humber/Framework Programming CPAN 2016/2020/Final Test/FinalExam-AddUpdateProduct/ProductClasses/obj/Debug/PartClasses.csprojAssemblyReference.cache
+D:/Humber/Framework Programming CPAN 2016/2020/Final Test/FinalExam-AddUpdateProduct/ProductClasses/obj/Debug/ProductClasses.dll
+D:/Humber/Framework Programming CPAN 2016/2020/Final Test/FinalExam-AddUpdateProduct/ProductClasses/obj/Debug/ProductClasses.pdb
+D:/Humber/Framework Programming CPAN 2016/2020/Final Test/FinalPart-Version1/ProductClasses/bin/Debug/ProductClasses.dll
+D:/Humber/Framework Programming CPAN 2016/2020/Final Test/FinalPart-Version1/ProductClasses/bin/Debug/ProductClasses.pdb
+D:/Humber/Framework Programming CPAN 2016/2020/Final Test/FinalPart-Version1/ProductClasses/obj/Debug/PartClasses.csprojAssemblyReference.cache
+D:/Humber/Framework Programming CPAN 2016/2020/Final Test/FinalPart-Version1/ProductClasses/obj/Debug/ProductClasses.dll
+D:/Humber/Framework Programming CPAN 2016/2020/Final Test/FinalPart-Version1/ProductClasses/obj/Debug/ProductClasses.pdb
+C:/Users/jb/Downloads/FinalPart-Version1/ProductClasses/bin/Debug/ProductClasses.dll
+C:/Users/jb/Downloads/FinalPart-Version1/ProductClasses/bin/Debug/ProductClasses.pdb
+C:/Users/jb/Downloads/FinalPart-Version1/ProductClasses/obj/Debug/PartClasses.csprojAssemblyReference.cache
+C:/Users/jb/Downloads/FinalPart-Version1/ProductClasses/obj/Debug/PartClasses.csproj.CoreCompileInputs.cache
+C:/Users/jb/Downloads/FinalPart-Version1/ProductClasses/obj/Debug/ProductClasses.dll
+C:/Users/jb/Downloads/FinalPart-Version1/ProductClasses/obj/Debug/ProductClasses.pdb
+/Users/jiyunbaik/Desktop/CPAN 151 Framework/FinalPart-Version1/ProductClasses/bin/Debug/ProductClasses.dll
+/Users/jiyunbaik/Desktop/CPAN 151 Framework/FinalPart-Version1/ProductClasses/bin/Debug/ProductClasses.pdb
+/Users/jiyunbaik/Desktop/CPAN 151 Framework/FinalPart-Version1/ProductClasses/obj/Debug/PartClasses.csprojAssemblyReference.cache
+/Users/jiyunbaik/Desktop/CPAN 151 Framework/FinalPart-Version1/ProductClasses/obj/Debug/PartClasses.csproj.CoreCompileInputs.cache
+/Users/jiyunbaik/Desktop/CPAN 151 Framework/FinalPart-Version1/ProductClasses/obj/Debug/ProductClasses.dll
+/Users/jiyunbaik/Desktop/CPAN 151 Framework/FinalPart-Version1/ProductClasses/obj/Debug/ProductClasses.pdb
